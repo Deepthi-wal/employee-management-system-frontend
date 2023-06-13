@@ -1,0 +1,25 @@
+.register{
+  padding-top: 3%;
+}
+
+.register form{
+  width: 40%;
+}
+
+.register-text{
+  color: #214B75;
+}
+
+.register-submit{
+  background-color: #214B75;
+}
+
+.register-submit:hover{
+  box-shadow: 4px 5px 8px #555;
+  background-color: #214B75;
+  color: #fff;
+}
+
+.register-submit:active{
+  background-color: #214B75;
+}

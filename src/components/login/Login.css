@@ -1,0 +1,35 @@
+.bg{
+  background-image: url("../../images/592032-1920x1200-abstract.jpg");
+  min-height: 100vh;
+}
+
+form{
+  border-radius: 15px;
+  box-shadow: 4px 8px 15px #555;
+  width: 30%;
+  margin: auto;
+  padding: 20px;
+}
+
+
+.login{ 
+  padding-top: 12%;
+}
+
+.login-text{
+  color: #214B75;
+}
+
+.login-submit{
+  background-color: #214B75;
+}
+
+.login-submit:hover{
+  box-shadow: 4px 8px 15px #555;
+  background-color: #214B75;
+  color: #fff;
+}
+
+.login-submit:active{
+  background-color: #214B75;
+}
